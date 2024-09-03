@@ -5,7 +5,6 @@ Welcome to the Animation Website project! This project showcases various animati
 
 This website is not responsive, so please be aware of this limitation. If you wish to make it responsive, you will need to modify and implement responsive design principles yourself. Feel free to explore and experiment with responsive techniques to enhance the website's usability across different devices and screen sizes.
 
-## Live Preview
 
 
 
