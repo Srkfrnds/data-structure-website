@@ -7,9 +7,7 @@ This website is not responsive, so please be aware of this limitation. If you wi
 
 ## Live Preview
 
-You can access the live preview of the Animation Website{data-structure-website} [Link to Live Preview](https://data-structure-website.netlify.app/).<br>
-You can access the live preview of the Animation Website{website-no-4} [Link to Live Preview](https://product4.netlify.app/).<br>
-You can access the live preview of the Animation Website{website-no-3} [Link to Live Preview](https://duo1.netlify.app/).<br>
+
 
 ## Features
 
